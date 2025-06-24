@@ -1,0 +1,239 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Карта</title>
+	<!--Здесь нужно вставить свой АПИ ключ для доступа к яндекс картам-->
+	<script src="https://api-maps.yandex.ru/2.1/?apikey=YOUR_API_KEY&lang=ru_RU" type="text/javascript"></script>
+	<script>
+		ymaps.ready(init);
+
+		var coords = [0,0];
+		let myMap;
+
+		function init() {
+			myMap = new ymaps.Map("map", {
+				center: [53.201323085104875, 45.01922607421824], // Координаты центра карты (Пенза)
+				zoom: 13
+			});
+
+			document.getElementById("coords").innerText = "Координаты в месте клика не установлены";
+
+			myMap.events.add('click', function (e) {
+				coords = e.get('coords');
+				//alert('Координаты: ' + coords[0].toFixed(6) + ', ' + coords[1].toFixed(6));
+				document.getElementById("coords").innerText = "Координаты в точке клика: "+coords.join(", ");
+			});
+
+			//Создадим функцию для поиска объектов на карте и построения маршрутов до них. Искасть будем
+			//ближайший населённый пункт, больницу и пожарную часть.
+			function setRoutes(){
+				//Рисуем маркер для точки, которую пользователь отметил на карте.
+				const destinationPlacemark = new ymaps.Placemark(coords, {
+					balloonContent: `Выбранная точка на карте`
+				});
+				myMap.geoObjects.add(destinationPlacemark);
+
+				var ObjectsList = ['locality'];
+				// Обратное геокодирование: найти ближайший населённый пункт
+				ymaps.geocode(coords, {
+					kind: 'locality', // ищем населённый пункт
+					results: 1
+				}).then(function (res) {
+					const firstGeoObject = res.geoObjects.get(0);
+
+					if(firstGeoObject){
+						const nearestLocalityCoords = firstGeoObject.geometry.getCoordinates();
+						const localityName = firstGeoObject.getLocalities().join(', ');
+
+						//Marker: Это просто отметка ближайшего населённого пункта. Её можно убрать.
+						const destinationPlacemark = new ymaps.Placemark(nearestLocalityCoords, {
+							balloonContent: `Ближайший населённый пункт: ${localityName}`
+						});
+
+						myMap.geoObjects.add(destinationPlacemark);
+
+						ymaps.route([
+							coords,
+							nearestLocalityCoords
+						]).then(function (route) {
+							myMap.geoObjects.add(route);
+
+							const wayPoints = route.getWayPoints();
+							wayPoints.each(function (wayPoint) {
+								wayPoint.options.set('visible', false);
+							});
+
+							// Получаем активный маршрут и вычисляем его длину (первый по умолчанию)
+							const activeRoute = route.getPaths().get(0);
+
+							if (activeRoute) {
+								//Получаем длину маршрута
+								const distance = activeRoute.getLength(); // в метрах
+
+								console.log(`Расстояние: ${distance} м`);
+
+								//Отображаем полученную длину на html-странице
+								document.getElementById("localityRouteLength").innerText = `Расстояние до ближайшего населённого пункта: ${distance.toFixed(2)}м`;
+							}
+
+						},function(error){
+							console.error('Ошибка построения маршрута:', error);
+						});
+					} else {
+						console.warn('Населённый пункт не найден.');
+					}
+				});
+				
+				//Далее делаем запрос на сервер, чтобы найти ближайшие больницу и пожарную часть.
+				fetch('/Map/SearchNearestObjects', {
+				method: 'POST',
+				headers: {
+					'Content-Type': 'application/json' // ВАЖНО!
+				},
+				body: JSON.stringify({
+					latitude: coords[0],
+					longitude: coords[1],
+					objects: ["поликлиника или больница","пожарная часть или пожарное отделение"]
+				})
+				})
+				.then(response => response.json())
+				.then(data => {
+					//С сервера мы получили список ближайших искомых муниципальных объектов и теперь их обрабатываем по очереди.
+					//Сначала выводим суммарный JSON ответ от сервера в консоль браузера.
+					console.log('Ответ сервера:', data);
+					//Теперь обрабатываем каждый элемент в JSON-ответе от сервера отдельно.
+					data.forEach(obj => {
+						
+						//Задаём координаты и название объекта для того, чтобы потом на карте отобразить маркер и маршрут до объекта.
+						const nearestLocalityCoords = [obj.latitude, obj.longitude];
+						const localityName = obj.name;
+
+						//Рисуем маркер.
+						//Marker: Это просто отметка ближайшего населённого пункта. Её можно убрать.
+						const destinationPlacemark = new ymaps.Placemark(nearestLocalityCoords, {
+							balloonContent: `Название: ${localityName}; Расстояние до объекта: ${obj.distance}`
+						});
+
+						myMap.geoObjects.add(destinationPlacemark);
+
+						//Строим маршрут.
+						ymaps.route([
+							coords,
+							nearestLocalityCoords
+						]).then(function (route) {
+							myMap.geoObjects.add(route);
+
+							const wayPoints = route.getWayPoints();
+							wayPoints.each(function (wayPoint) {
+								wayPoint.options.set('visible', false);
+							});
+						},function(error){
+							console.error('Ошибка построения маршрута:', error);
+						});
+					});
+				})
+				.catch(error => console.error('Ошибка:', error));
+			}
+
+			// Привяжем функцию setRoutes к кнопке на html странице.
+			document.getElementById("setRoutes").addEventListener("click", setRoutes);
+
+			function clearData(){
+				myMap.geoObjects.removeAll();
+			}
+
+			document.getElementById("clearData").addEventListener("click", clearData);
+		}
+	</script>
+	<style>
+		#map {
+			width: 100%;
+			height: 720px;
+			;
+		}
+	</style>
+</head>
+<body>
+	<div style="justify-content: center; display: flex;">
+		<div id="map"></div>
+	</div>
+
+	<div id="coords"></div>
+	<!--Marker: Эту функцию и кнопку в будущем надо будет удалить. Она тестовая и нужна для того, чтобы тестировать
+		функцию поиска муниципальных объектов на сервере-->
+	<div><button id="setRoutes">Найти ближайший населённый пункт и объекты жизнеобеспечения</button></div>
+	<!--Marker: Это тестовые кнопки и поля для поиска объектов с изменяемым зумом-->
+	<label for="zoom" style="display: inline-block;">Zoom:</label>
+	<input type="number" size="2" id="zoom" name="zoom" value="17"/>
+	<div><button id="drawRectanglesWithZoom">Обнаружить объекты на заданной зоне</button></div>
+	<div><button id="clearData">Очистить карту от объектов и маршрутов</button></div>
+	<script>
+		//Marker: на релизе удалить
+		function drawRectanglesWithZoom(){
+
+			const zoomValue = document.getElementById('zoom').value;
+
+			//const zoomNumber = parseInt(zoomValue, 10);
+
+			fetch('/Map/ImageDetection', {
+				method: 'POST',
+				headers: {
+					'Content-Type': 'application/json' // ВАЖНО!
+				},
+				body: JSON.stringify({ latitude: coords[0], longitude: coords[1], zoom: zoomValue})
+			})
+			.then(response => response.json())
+			.then(data => {
+				data.forEach(obj => {
+					let myRectangle = new ymaps.Rectangle([
+						// Задаем координаты диагональных углов прямоугольника.
+						[obj.y1, obj.x1],
+						[obj.y2, obj.x2]
+					], {
+						//Свойства
+						hintContent: obj.type,
+						//balloonContent: 'Мой первый прямоугольник на карте'
+					}, {
+						// Опции.
+						// Цвет и прозрачность заливки.
+						fillColor: '#F700F7',
+						// Дополнительная прозрачность заливки..
+						// Итоговая прозрачность будет не #33(0.2), а 0.1(0.2*0.5).
+						fillOpacity: 0,
+						// Цвет обводки.
+						strokeColor: '#860D86',
+						// Прозрачность обводки.
+						strokeOpacity: 0.5,
+						// Ширина линии.
+						strokeWidth: 2,
+						interactivityModel: 'default#transparent'
+					});
+
+					myMap.geoObjects.add(myRectangle);
+
+					//Теперь добавим текстовую метку для каждого объекта
+					var upperLeftCorner = [
+						obj.y1,
+						obj.x1
+					];
+
+					var label = new ymaps.Placemark(upperLeftCorner, {
+						iconContent:  obj.type
+					}, {
+						preset: 'islands#blueStretchyIcon',
+						draggable: false
+					});
+
+					myMap.geoObjects.add(label)
+				});
+			})
+			.catch(error => console.error('Ошибка:', error));
+		}
+
+		//Marker: на релизе удалить
+		const button2 = document.getElementById("drawRectanglesWithZoom");
+		button2.addEventListener("click", drawRectanglesWithZoom);
+	</script>
+</body>
+</html>

@@ -1,0 +1,1529 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\dataset_images\\map_53,180651602203056_45,01287460327096.png",
+      "PackagePath": "staticwebassets\\dataset_images\\map_53,180651602203056_45,01287460327096.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\dataset_images\\map_53,19328250129933_45,010128021239716.png",
+      "PackagePath": "staticwebassets\\dataset_images\\map_53,19328250129933_45,010128021239716.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\dataset_images\\map_53,199829866149955_45,00213469423447.png",
+      "PackagePath": "staticwebassets\\dataset_images\\map_53,199829866149955_45,00213469423447.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\dataset_images\\map_53,20297816902467_44,99518552072224.png",
+      "PackagePath": "staticwebassets\\dataset_images\\map_53,20297816902467_44,99518552072224.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\BGR_map_53,20297874494492_44,99593267993852.png",
+      "PackagePath": "staticwebassets\\detectionResults\\BGR_map_53,20297874494492_44,99593267993852.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\RGB_map_53,20297874494492_44,99593267993852.png",
+      "PackagePath": "staticwebassets\\detectionResults\\RGB_map_53,20297874494492_44,99593267993852.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_-0,1700963912264363_10,231116101084258.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_-0,1700963912264363_10,231116101084258.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_-0,1700963912264363_10,233546825304312.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_-0,1700963912264363_10,233546825304312.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_-0,17253120543752928_10,231116101084258.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_-0,17253120543752928_10,231116101084258.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_-0,17253120543752928_10,233546825304312.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_-0,17253120543752928_10,233546825304312.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_-0,2737434963781375_11,903802672168228.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_-0,2737434963781375_11,903802672168228.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_-0,2737434963781375_11,906233396388282.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_-0,2737434963781375_11,906233396388282.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_-0,2761782934358092_11,903802672168228.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_-0,2761782934358092_11,903802672168228.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_-0,2761782934358092_11,906233396388282.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_-0,2761782934358092_11,906233396388282.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_-0,482706195319612_15,894740183309736.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_-0,482706195319612_15,894740183309736.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_-0,7037816237040186_10,234810535083108.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_-0,7037816237040186_10,234810535083108.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_-23,549572481048205_-46,648173624200574.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_-23,549572481048205_-46,648173624200574.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_-33,88799467772155_151,2102776128294.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_-33,88799467772155_151,2102776128294.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_-33,88961041966294_151,20733221129075.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_-33,88961041966294_151,20733221129075.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_-43,69859597355725_-66,48510926667531.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_-43,69859597355725_-66,48510926667531.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_-43,699763577559544_-66,47679441872914.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_-43,699763577559544_-66,47679441872914.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_43,64957860616025_-70,27056693674676.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_43,64957860616025_-70,27056693674676.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_43,650346524153534_-70,26730169298672.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_43,650346524153534_-70,26730169298672.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_43,65132816995246_-70,26556132731642.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_43,65132816995246_-70,26556132731642.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_44,385842461878916_-68,20820261390418.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_44,385842461878916_-68,20820261390418.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_44,38760049457563_-68,20488016261007.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_44,38760049457563_-68,20488016261007.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_44,38832752322618_-68,20484797610189.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_44,38832752322618_-68,20484797610189.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,158895715821814_45,04048636518402.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,158895715821814_45,04048636518402.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,1714748157306_45,05226705440441.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,1714748157306_45,05226705440441.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,17159830048793_45,056877520193346.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,17159830048793_45,056877520193346.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,17178081857871_44,98104240583972.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,17178081857871_44,98104240583972.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,17178081857871_44,983473130059785.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,17178081857871_44,983473130059785.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,17324027150245_44,98104240583972.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,17324027150245_44,98104240583972.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,17324027150245_44,983473130059785.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,17324027150245_44,983473130059785.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,174591456204_44,99286558317736.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,174591456204_44,99286558317736.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,174591456204_44,995296307397425.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,174591456204_44,995296307397425.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,17588762746448_45,07228057723063.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,17588762746448_45,07228057723063.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,17605081352255_44,99286558317736.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,17605081352255_44,99286558317736.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,17605081352255_44,995296307397425.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,17605081352255_44,995296307397425.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,17763304637622_45,05749117576623.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,17763304637622_45,05749117576623.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,178588213860834_45,08393948489691.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,178588213860834_45,08393948489691.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,17959456156491_44,984228610991906.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,17959456156491_44,984228610991906.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,18235226606455_45,02351382269403.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,18235226606455_45,02351382269403.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,182976261149534_45,021252300853824.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,182976261149534_45,021252300853824.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,182976261149534_45,023683025073886.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,182976261149534_45,023683025073886.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,18443533323405_45,021252300853824.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,18443533323405_45,021252300853824.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,18443533323405_45,023683025073886.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,18443533323405_45,023683025073886.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,18478908219956_45,01173802547255.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,18478908219956_45,01173802547255.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,184888733980024_45,09421576146738.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,184888733980024_45,09421576146738.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,186065302425824_45,00351905822702.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,186065302425824_45,00351905822702.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,18869456621144_45,04261493682809.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,18869456621144_45,04261493682809.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,189511662924374_45,091988505924185.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,189511662924374_45,091988505924185.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,18957095147642_45,09271860122629.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,18957095147642_45,09271860122629.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,1907837824861_45,02505097143019.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,1907837824861_45,02505097143019.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19079278951674_45,02505239339075.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19079278951674_45,02505239339075.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19088984992091_45,00453406195237.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19088984992091_45,00453406195237.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19088984992091_45,00696478617243.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19088984992091_45,00696478617243.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,191777425333946_45,02078043977517.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,191777425333946_45,02078043977517.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19234865277254_45,00453406195237.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19234865277254_45,00453406195237.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19234865277254_45,00696478617243.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19234865277254_45,00696478617243.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,192664048926126_45,09475754700831.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,192664048926126_45,09475754700831.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19281857522666_45,019912719726044.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19281857522666_45,019912719726044.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,192870122817176_45,041971206664506.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,192870122817176_45,041971206664506.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,193158812142784_44,98112497373539.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,193158812142784_44,98112497373539.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,193158812142784_44,98355569795545.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,193158812142784_44,98355569795545.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,193172470887866_45,00222540820623.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,193172470887866_45,00222540820623.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,193172470887866_45,00465613242629.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,193172470887866_45,00465613242629.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,193340491703744_45,02116799354501.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,193340491703744_45,02116799354501.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19346291563198_45,02710103988595.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19346291563198_45,02710103988595.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,193663074268486_45,08445053342391.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,193663074268486_45,08445053342391.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19366910250662_45,084527622177696.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19366910250662_45,084527622177696.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19372064906959_45,083963871001686.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19372064906959_45,083963871001686.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,193752832490205_45,08438257159722.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,193752832490205_45,08438257159722.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,1938066203869_45,08515049504502.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,1938066203869_45,08515049504502.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19400415405279_45,01278877258249.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19400415405279_45,01278877258249.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19413301933149_45,085487365722145.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19413301933149_45,085487365722145.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,194336644735294_45,036333171721694.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,194336644735294_45,036333171721694.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,194336644735294_45,038763895941756.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,194336644735294_45,038763895941756.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19440881358661_45,03577766462285.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19440881358661_45,03577766462285.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19440881358661_45,03820838884291.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19440881358661_45,03820838884291.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19461753779558_44,98112497373539.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19461753779558_44,98112497373539.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19461753779558_44,98355569795545.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19461753779558_44,98355569795545.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19463119607594_45,00222540820623.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19463119607594_45,00222540820623.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19463119607594_45,00465613242629.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19463119607594_45,00465613242629.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,194718086642965_45,00539360090215.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,194718086642965_45,00539360090215.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,194718086642965_45,007824325122215.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,194718086642965_45,007824325122215.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19475879830966_45,02981494234085.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19475879830966_45,02981494234085.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19578102941097_45,08506626067394.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19578102941097_45,08506626067394.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,195795330312784_45,036333171721694.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,195795330312784_45,036333171721694.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,195795330312784_45,038763895941756.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,195795330312784_45,038763895941756.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,195867496708566_45,03577766462285.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,195867496708566_45,03577766462285.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,195867496708566_45,03820838884291.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,195867496708566_45,03820838884291.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19597575023909_45,04349470138497.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19597575023909_45,04349470138497.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19617675924191_45,00539360090215.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19617675924191_45,00539360090215.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19617675924191_45,007824325122215.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19617675924191_45,007824325122215.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19617778655261_45,037684366056226.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19617778655261_45,037684366056226.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19617778655261_45,04011509027629.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19617778655261_45,04011509027629.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,196276269396066_45,029747663433874.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,196276269396066_45,029747663433874.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19637374210709_44,99566542839343.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19637374210709_44,99566542839343.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19637374210709_44,99809615261349.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19637374210709_44,99809615261349.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,196478299400866_45,01193046569773.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,196478299400866_45,01193046569773.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19681938779151_45,06409215285564.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19681938779151_45,06409215285564.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,1968983631015_45,01346168561894.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,1968983631015_45,01346168561894.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19698079757682_45,08438333519301.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19698079757682_45,08438333519301.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,197096813319554_45,00995635986277.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,197096813319554_45,00995635986277.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,1972965398571_45,02345323562571.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,1972965398571_45,02345323562571.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19750144326729_45,017066574534944.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19750144326729_45,017066574534944.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19750144326729_45,019497298755006.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19750144326729_45,019497298755006.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,197636409484716_45,037684366056226.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,197636409484716_45,037684366056226.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,197636409484716_45,04011509027629.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,197636409484716_45,04011509027629.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,197728203695476_45,02431154251047.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,197728203695476_45,02431154251047.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19783235837166_44,99566542839343.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19783235837166_44,99566542839343.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19783235837166_44,99809615261349.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19783235837166_44,99809615261349.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19822302460225_45,01020011945683.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19822302460225_45,01020011945683.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19822302460225_45,012630843676895.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19822302460225_45,012630843676895.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19823073221398_45,01742362976022.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19823073221398_45,01742362976022.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19865158043097_44,99143737385495.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19865158043097_44,99143737385495.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,198960021160666_45,017066574534944.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,198960021160666_45,017066574534944.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,198960021160666_45,019497298755006.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,198960021160666_45,019497298755006.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19906452207066_45,069979040586894.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19906452207066_45,069979040586894.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19910060441031_45,00091933212444.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19910060441031_45,00091933212444.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19910060441031_45,0033500563445.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19910060441031_45,0033500563445.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19920075712203_45,00906135915358.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19920075712203_45,00906135915358.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19920622593425_45,04376439942092.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19920622593425_45,04376439942092.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,19948910654438_44,99422687123043.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,19948910654438_44,99422687123043.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,199681577942776_45,01020011945683.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,199681577942776_45,01020011945683.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,199681577942776_45,012630843676895.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,199681577942776_45,012630843676895.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,199811227594196_44,997273860671356.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,199811227594196_44,997273860671356.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,2000346319757_45,0124454498286.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,2000346319757_45,0124454498286.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,2005591278896_45,00091933212444.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,2005591278896_45,00091933212444.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,2005591278896_45,0033500563445.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,2005591278896_45,0033500563445.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20056290246496_45,04287242889353.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20056290246496_45,04287242889353.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20070463245875_44,992876052855934.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20070463245875_44,992876052855934.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20083939850522_45,00226655252156.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20083939850522_45,00226655252156.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20112545626963_44,99109405110106.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20112545626963_44,99109405110106.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,201263840413105_45,021358108958786.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,201263840413105_45,021358108958786.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,201263840413105_45,02378883317885.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,201263840413105_45,02378883317885.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20198700974841_44,99186339250675.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20198700974841_44,99186339250675.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20198700974841_44,99429411672681.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20198700974841_44,99429411672681.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20225248048401_45,03922746206356.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20225248048401_45,03922746206356.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20225248048401_45,04165818628362.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20225248048401_45,04165818628362.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20226579115317_45,0459285137146.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20226579115317_45,0459285137146.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20226579115317_45,04835923793466.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20226579115317_45,04835923793466.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,202559963489996_44,99794006347603.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,202559963489996_44,99794006347603.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,202722290282935_45,021358108958786.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,202722290282935_45,021358108958786.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,202722290282935_45,02378883317885.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,202722290282935_45,02378883317885.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20281989426464_44,99606397629101.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20281989426464_44,99606397629101.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20297450059897_44,99589767933206.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20297450059897_44,99589767933206.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20297816902467_44,99518552072224.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20297816902467_44,99518552072224.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20297874494492_44,99593267993852.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20297874494492_44,99593267993852.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,202991960445274_44,99018969408145.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,202991960445274_44,99018969408145.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,202991960445274_44,99262041830151.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,202991960445274_44,99262041830151.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,203019964781184_44,99264821700034.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,203019964781184_44,99264821700034.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,203019964781184_44,9950789412204.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,203019964781184_44,9950789412204.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,2030668672249_45,00081575154923.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,2030668672249_45,00081575154923.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20333891492768_45,003425266815974.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20333891492768_45,003425266815974.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,203376822052384_45,01921234174688.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,203376822052384_45,01921234174688.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,203376822052384_45,02164306596694.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,203376822052384_45,02164306596694.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20344543501014_44,99186339250675.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20344543501014_44,99186339250675.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20344543501014_44,99429411672681.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20344543501014_44,99429411672681.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20344964041645_45,00254595319823.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20344964041645_45,00254595319823.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20371089671222_45,03922746206356.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20371089671222_45,03922746206356.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20371089671222_45,04165818628362.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20371089671222_45,04165818628362.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20372420692843_45,0459285137146.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20372420692843_45,0459285137146.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20372420692843_45,04835923793466.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20372420692843_45,04835923793466.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20445035151005_44,99018969408145.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20445035151005_44,99018969408145.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20445035151005_44,99262041830151.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20445035151005_44,99262041830151.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,204478354893006_44,99264821700034.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,204478354893006_44,99264821700034.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,204478354893006_44,9950789412204.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,204478354893006_44,9950789412204.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20469488910305_45,161180525116066.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20469488910305_45,161180525116066.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,204835200020774_45,01921234174688.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,204835200020774_45,01921234174688.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,204835200020774_45,02164306596694.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,204835200020774_45,02164306596694.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,20523974362026_44,991674423217255.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,20523974362026_44,991674423217255.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,21224617216597_45,1399922369996.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,21224617216597_45,1399922369996.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,212731093032154_45,02607684488922.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,212731093032154_45,02607684488922.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,213255986089926_45,02836208696991.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,213255986089926_45,02836208696991.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,213649006731984_45,136285789353224.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,213649006731984_45,136285789353224.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,21418133917011_45,028850370465825.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,21418133917011_45,028850370465825.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,21435663771695_45,02633435479653.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,21435663771695_45,02633435479653.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,2146099422023_45,039039230784965.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,2146099422023_45,039039230784965.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,2146099422023_45,04146995500503.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,2146099422023_45,04146995500503.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,21606793789198_45,039039230784965.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,21606793789198_45,039039230784965.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,21606793789198_45,04146995500503.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,21606793789198_45,04146995500503.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_53,27413465885876_45,122823715209435.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_53,27413465885876_45,122823715209435.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_66,50635750204236_66,40417754796228.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_66,50635750204236_66,40417754796228.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_66,65893274371591_66,39678163181924.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_66,65893274371591_66,39678163181924.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_66,65935007675135_66,39663299051423.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_66,65935007675135_66,39663299051423.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_66,65935007675135_66,3990637147343.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_66,65935007675135_66,3990637147343.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_66,66031472837308_66,39663299051423.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_66,66031472837308_66,39663299051423.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_66,66031472837308_66,3990637147343.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_66,66031472837308_66,3990637147343.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\detectionResults\\map_66,66207427872571_66,39363174163215.png",
+      "PackagePath": "staticwebassets\\detectionResults\\map_66,66207427872571_66,39363174163215.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_-0,1700963912264363_10,231116101084258.png",
+      "PackagePath": "staticwebassets\\images\\map_-0,1700963912264363_10,231116101084258.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_-0,1700963912264363_10,233546825304312.png",
+      "PackagePath": "staticwebassets\\images\\map_-0,1700963912264363_10,233546825304312.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_-0,17253120543752928_10,231116101084258.png",
+      "PackagePath": "staticwebassets\\images\\map_-0,17253120543752928_10,231116101084258.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_-0,17253120543752928_10,233546825304312.png",
+      "PackagePath": "staticwebassets\\images\\map_-0,17253120543752928_10,233546825304312.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_-0,2737434963781375_11,903802672168228.png",
+      "PackagePath": "staticwebassets\\images\\map_-0,2737434963781375_11,903802672168228.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_-0,2737434963781375_11,906233396388282.png",
+      "PackagePath": "staticwebassets\\images\\map_-0,2737434963781375_11,906233396388282.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_-0,2761782934358092_11,903802672168228.png",
+      "PackagePath": "staticwebassets\\images\\map_-0,2761782934358092_11,903802672168228.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_-0,2761782934358092_11,906233396388282.png",
+      "PackagePath": "staticwebassets\\images\\map_-0,2761782934358092_11,906233396388282.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_-0,482706195319612_15,894740183309736.png",
+      "PackagePath": "staticwebassets\\images\\map_-0,482706195319612_15,894740183309736.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_-0,7037816237040186_10,234810535083108.png",
+      "PackagePath": "staticwebassets\\images\\map_-0,7037816237040186_10,234810535083108.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_-23,549572481048205_-46,648173624200574.png",
+      "PackagePath": "staticwebassets\\images\\map_-23,549572481048205_-46,648173624200574.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_-33,88799467772155_151,2102776128294.png",
+      "PackagePath": "staticwebassets\\images\\map_-33,88799467772155_151,2102776128294.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_-33,88961041966294_151,20733221129075.png",
+      "PackagePath": "staticwebassets\\images\\map_-33,88961041966294_151,20733221129075.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_-43,69859597355725_-66,48510926667531.png",
+      "PackagePath": "staticwebassets\\images\\map_-43,69859597355725_-66,48510926667531.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_-43,699763577559544_-66,47679441872914.png",
+      "PackagePath": "staticwebassets\\images\\map_-43,699763577559544_-66,47679441872914.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_43,64957860616025_-70,27056693674676.png",
+      "PackagePath": "staticwebassets\\images\\map_43,64957860616025_-70,27056693674676.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_43,650346524153534_-70,26730169298672.png",
+      "PackagePath": "staticwebassets\\images\\map_43,650346524153534_-70,26730169298672.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_43,65132816995246_-70,26556132731642.png",
+      "PackagePath": "staticwebassets\\images\\map_43,65132816995246_-70,26556132731642.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_44,385842461878916_-68,20820261390418.png",
+      "PackagePath": "staticwebassets\\images\\map_44,385842461878916_-68,20820261390418.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_44,38760049457563_-68,20488016261007.png",
+      "PackagePath": "staticwebassets\\images\\map_44,38760049457563_-68,20488016261007.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_44,38832752322618_-68,20484797610189.png",
+      "PackagePath": "staticwebassets\\images\\map_44,38832752322618_-68,20484797610189.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,158895715821814_45,04048636518402.png",
+      "PackagePath": "staticwebassets\\images\\map_53,158895715821814_45,04048636518402.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,1714748157306_45,05226705440441.png",
+      "PackagePath": "staticwebassets\\images\\map_53,1714748157306_45,05226705440441.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,17159830048793_45,056877520193346.png",
+      "PackagePath": "staticwebassets\\images\\map_53,17159830048793_45,056877520193346.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,17178081857871_44,98104240583972.png",
+      "PackagePath": "staticwebassets\\images\\map_53,17178081857871_44,98104240583972.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,17178081857871_44,983473130059785.png",
+      "PackagePath": "staticwebassets\\images\\map_53,17178081857871_44,983473130059785.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,17324027150245_44,98104240583972.png",
+      "PackagePath": "staticwebassets\\images\\map_53,17324027150245_44,98104240583972.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,17324027150245_44,983473130059785.png",
+      "PackagePath": "staticwebassets\\images\\map_53,17324027150245_44,983473130059785.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,174591456204_44,99286558317736.png",
+      "PackagePath": "staticwebassets\\images\\map_53,174591456204_44,99286558317736.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,174591456204_44,995296307397425.png",
+      "PackagePath": "staticwebassets\\images\\map_53,174591456204_44,995296307397425.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,17588762746448_45,07228057723063.png",
+      "PackagePath": "staticwebassets\\images\\map_53,17588762746448_45,07228057723063.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,17605081352255_44,99286558317736.png",
+      "PackagePath": "staticwebassets\\images\\map_53,17605081352255_44,99286558317736.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,17605081352255_44,995296307397425.png",
+      "PackagePath": "staticwebassets\\images\\map_53,17605081352255_44,995296307397425.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,17763304637622_45,05749117576623.png",
+      "PackagePath": "staticwebassets\\images\\map_53,17763304637622_45,05749117576623.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,178588213860834_45,08393948489691.png",
+      "PackagePath": "staticwebassets\\images\\map_53,178588213860834_45,08393948489691.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,17959456156491_44,984228610991906.png",
+      "PackagePath": "staticwebassets\\images\\map_53,17959456156491_44,984228610991906.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,18235226606455_45,02351382269403.png",
+      "PackagePath": "staticwebassets\\images\\map_53,18235226606455_45,02351382269403.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,182976261149534_45,021252300853824.png",
+      "PackagePath": "staticwebassets\\images\\map_53,182976261149534_45,021252300853824.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,182976261149534_45,023683025073886.png",
+      "PackagePath": "staticwebassets\\images\\map_53,182976261149534_45,023683025073886.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,18443533323405_45,021252300853824.png",
+      "PackagePath": "staticwebassets\\images\\map_53,18443533323405_45,021252300853824.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,18443533323405_45,023683025073886.png",
+      "PackagePath": "staticwebassets\\images\\map_53,18443533323405_45,023683025073886.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,18478908219956_45,01173802547255.png",
+      "PackagePath": "staticwebassets\\images\\map_53,18478908219956_45,01173802547255.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,184888733980024_45,09421576146738.png",
+      "PackagePath": "staticwebassets\\images\\map_53,184888733980024_45,09421576146738.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,186065302425824_45,00351905822702.png",
+      "PackagePath": "staticwebassets\\images\\map_53,186065302425824_45,00351905822702.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,18869456621144_45,04261493682809.png",
+      "PackagePath": "staticwebassets\\images\\map_53,18869456621144_45,04261493682809.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,189511662924374_45,091988505924185.png",
+      "PackagePath": "staticwebassets\\images\\map_53,189511662924374_45,091988505924185.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,18957095147642_45,09271860122629.png",
+      "PackagePath": "staticwebassets\\images\\map_53,18957095147642_45,09271860122629.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,1907837824861_45,02505097143019.png",
+      "PackagePath": "staticwebassets\\images\\map_53,1907837824861_45,02505097143019.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19079278951674_45,02505239339075.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19079278951674_45,02505239339075.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19088984992091_45,00453406195237.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19088984992091_45,00453406195237.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19088984992091_45,00696478617243.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19088984992091_45,00696478617243.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,191777425333946_45,02078043977517.png",
+      "PackagePath": "staticwebassets\\images\\map_53,191777425333946_45,02078043977517.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19234865277254_45,00453406195237.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19234865277254_45,00453406195237.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19234865277254_45,00696478617243.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19234865277254_45,00696478617243.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,192664048926126_45,09475754700831.png",
+      "PackagePath": "staticwebassets\\images\\map_53,192664048926126_45,09475754700831.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19281857522666_45,019912719726044.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19281857522666_45,019912719726044.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,192870122817176_45,041971206664506.png",
+      "PackagePath": "staticwebassets\\images\\map_53,192870122817176_45,041971206664506.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,193158812142784_44,98112497373539.png",
+      "PackagePath": "staticwebassets\\images\\map_53,193158812142784_44,98112497373539.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,193158812142784_44,98355569795545.png",
+      "PackagePath": "staticwebassets\\images\\map_53,193158812142784_44,98355569795545.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,193172470887866_45,00222540820623.png",
+      "PackagePath": "staticwebassets\\images\\map_53,193172470887866_45,00222540820623.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,193172470887866_45,00465613242629.png",
+      "PackagePath": "staticwebassets\\images\\map_53,193172470887866_45,00465613242629.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,193340491703744_45,02116799354501.png",
+      "PackagePath": "staticwebassets\\images\\map_53,193340491703744_45,02116799354501.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19346291563198_45,02710103988595.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19346291563198_45,02710103988595.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,193663074268486_45,08445053342391.png",
+      "PackagePath": "staticwebassets\\images\\map_53,193663074268486_45,08445053342391.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19366910250662_45,084527622177696.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19366910250662_45,084527622177696.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19372064906959_45,083963871001686.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19372064906959_45,083963871001686.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,193752832490205_45,08438257159722.png",
+      "PackagePath": "staticwebassets\\images\\map_53,193752832490205_45,08438257159722.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,1938066203869_45,08515049504502.png",
+      "PackagePath": "staticwebassets\\images\\map_53,1938066203869_45,08515049504502.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19400415405279_45,01278877258249.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19400415405279_45,01278877258249.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19413301933149_45,085487365722145.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19413301933149_45,085487365722145.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,194336644735294_45,036333171721694.png",
+      "PackagePath": "staticwebassets\\images\\map_53,194336644735294_45,036333171721694.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,194336644735294_45,038763895941756.png",
+      "PackagePath": "staticwebassets\\images\\map_53,194336644735294_45,038763895941756.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19440881358661_45,03577766462285.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19440881358661_45,03577766462285.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19440881358661_45,03820838884291.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19440881358661_45,03820838884291.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19461753779558_44,98112497373539.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19461753779558_44,98112497373539.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19461753779558_44,98355569795545.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19461753779558_44,98355569795545.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19463119607594_45,00222540820623.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19463119607594_45,00222540820623.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19463119607594_45,00465613242629.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19463119607594_45,00465613242629.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,194718086642965_45,00539360090215.png",
+      "PackagePath": "staticwebassets\\images\\map_53,194718086642965_45,00539360090215.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,194718086642965_45,007824325122215.png",
+      "PackagePath": "staticwebassets\\images\\map_53,194718086642965_45,007824325122215.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19475879830966_45,02981494234085.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19475879830966_45,02981494234085.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19578102941097_45,08506626067394.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19578102941097_45,08506626067394.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,195795330312784_45,036333171721694.png",
+      "PackagePath": "staticwebassets\\images\\map_53,195795330312784_45,036333171721694.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,195795330312784_45,038763895941756.png",
+      "PackagePath": "staticwebassets\\images\\map_53,195795330312784_45,038763895941756.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,195867496708566_45,03577766462285.png",
+      "PackagePath": "staticwebassets\\images\\map_53,195867496708566_45,03577766462285.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,195867496708566_45,03820838884291.png",
+      "PackagePath": "staticwebassets\\images\\map_53,195867496708566_45,03820838884291.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19597575023909_45,04349470138497.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19597575023909_45,04349470138497.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19617675924191_45,00539360090215.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19617675924191_45,00539360090215.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19617675924191_45,007824325122215.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19617675924191_45,007824325122215.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19617778655261_45,037684366056226.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19617778655261_45,037684366056226.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19617778655261_45,04011509027629.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19617778655261_45,04011509027629.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,196276269396066_45,029747663433874.png",
+      "PackagePath": "staticwebassets\\images\\map_53,196276269396066_45,029747663433874.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19637374210709_44,99566542839343.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19637374210709_44,99566542839343.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19637374210709_44,99809615261349.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19637374210709_44,99809615261349.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,196478299400866_45,01193046569773.png",
+      "PackagePath": "staticwebassets\\images\\map_53,196478299400866_45,01193046569773.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19681938779151_45,06409215285564.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19681938779151_45,06409215285564.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,1968983631015_45,01346168561894.png",
+      "PackagePath": "staticwebassets\\images\\map_53,1968983631015_45,01346168561894.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19698079757682_45,08438333519301.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19698079757682_45,08438333519301.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,197096813319554_45,00995635986277.png",
+      "PackagePath": "staticwebassets\\images\\map_53,197096813319554_45,00995635986277.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,1972965398571_45,02345323562571.png",
+      "PackagePath": "staticwebassets\\images\\map_53,1972965398571_45,02345323562571.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19750144326729_45,017066574534944.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19750144326729_45,017066574534944.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19750144326729_45,019497298755006.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19750144326729_45,019497298755006.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,197636409484716_45,037684366056226.png",
+      "PackagePath": "staticwebassets\\images\\map_53,197636409484716_45,037684366056226.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,197636409484716_45,04011509027629.png",
+      "PackagePath": "staticwebassets\\images\\map_53,197636409484716_45,04011509027629.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,197728203695476_45,02431154251047.png",
+      "PackagePath": "staticwebassets\\images\\map_53,197728203695476_45,02431154251047.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19783235837166_44,99566542839343.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19783235837166_44,99566542839343.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19783235837166_44,99809615261349.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19783235837166_44,99809615261349.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19822302460225_45,01020011945683.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19822302460225_45,01020011945683.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19822302460225_45,012630843676895.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19822302460225_45,012630843676895.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19823073221398_45,01742362976022.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19823073221398_45,01742362976022.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19865158043097_44,99143737385495.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19865158043097_44,99143737385495.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,198960021160666_45,017066574534944.png",
+      "PackagePath": "staticwebassets\\images\\map_53,198960021160666_45,017066574534944.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,198960021160666_45,019497298755006.png",
+      "PackagePath": "staticwebassets\\images\\map_53,198960021160666_45,019497298755006.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19906452207066_45,069979040586894.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19906452207066_45,069979040586894.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19910060441031_45,00091933212444.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19910060441031_45,00091933212444.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19910060441031_45,0033500563445.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19910060441031_45,0033500563445.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19920075712203_45,00906135915358.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19920075712203_45,00906135915358.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19920622593425_45,04376439942092.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19920622593425_45,04376439942092.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,19948910654438_44,99422687123043.png",
+      "PackagePath": "staticwebassets\\images\\map_53,19948910654438_44,99422687123043.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,199681577942776_45,01020011945683.png",
+      "PackagePath": "staticwebassets\\images\\map_53,199681577942776_45,01020011945683.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,199681577942776_45,012630843676895.png",
+      "PackagePath": "staticwebassets\\images\\map_53,199681577942776_45,012630843676895.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,199811227594196_44,997273860671356.png",
+      "PackagePath": "staticwebassets\\images\\map_53,199811227594196_44,997273860671356.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,2000346319757_45,0124454498286.png",
+      "PackagePath": "staticwebassets\\images\\map_53,2000346319757_45,0124454498286.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,2005591278896_45,00091933212444.png",
+      "PackagePath": "staticwebassets\\images\\map_53,2005591278896_45,00091933212444.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,2005591278896_45,0033500563445.png",
+      "PackagePath": "staticwebassets\\images\\map_53,2005591278896_45,0033500563445.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20056290246496_45,04287242889353.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20056290246496_45,04287242889353.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20070463245875_44,992876052855934.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20070463245875_44,992876052855934.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20083939850522_45,00226655252156.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20083939850522_45,00226655252156.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20112545626963_44,99109405110106.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20112545626963_44,99109405110106.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,201263840413105_45,021358108958786.png",
+      "PackagePath": "staticwebassets\\images\\map_53,201263840413105_45,021358108958786.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,201263840413105_45,02378883317885.png",
+      "PackagePath": "staticwebassets\\images\\map_53,201263840413105_45,02378883317885.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20198700974841_44,99186339250675.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20198700974841_44,99186339250675.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20198700974841_44,99429411672681.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20198700974841_44,99429411672681.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20225248048401_45,03922746206356.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20225248048401_45,03922746206356.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20225248048401_45,04165818628362.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20225248048401_45,04165818628362.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20226579115317_45,0459285137146.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20226579115317_45,0459285137146.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20226579115317_45,04835923793466.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20226579115317_45,04835923793466.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,202559963489996_44,99794006347603.png",
+      "PackagePath": "staticwebassets\\images\\map_53,202559963489996_44,99794006347603.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,202722290282935_45,021358108958786.png",
+      "PackagePath": "staticwebassets\\images\\map_53,202722290282935_45,021358108958786.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,202722290282935_45,02378883317885.png",
+      "PackagePath": "staticwebassets\\images\\map_53,202722290282935_45,02378883317885.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20281989426464_44,99606397629101.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20281989426464_44,99606397629101.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20297450059897_44,99589767933206.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20297450059897_44,99589767933206.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20297816902467_44,99518552072224.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20297816902467_44,99518552072224.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20297874494492_44,99593267993852.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20297874494492_44,99593267993852.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,202991960445274_44,99018969408145.png",
+      "PackagePath": "staticwebassets\\images\\map_53,202991960445274_44,99018969408145.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,202991960445274_44,99262041830151.png",
+      "PackagePath": "staticwebassets\\images\\map_53,202991960445274_44,99262041830151.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,203019964781184_44,99264821700034.png",
+      "PackagePath": "staticwebassets\\images\\map_53,203019964781184_44,99264821700034.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,203019964781184_44,9950789412204.png",
+      "PackagePath": "staticwebassets\\images\\map_53,203019964781184_44,9950789412204.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,2030668672249_45,00081575154923.png",
+      "PackagePath": "staticwebassets\\images\\map_53,2030668672249_45,00081575154923.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20333891492768_45,003425266815974.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20333891492768_45,003425266815974.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,203376822052384_45,01921234174688.png",
+      "PackagePath": "staticwebassets\\images\\map_53,203376822052384_45,01921234174688.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,203376822052384_45,02164306596694.png",
+      "PackagePath": "staticwebassets\\images\\map_53,203376822052384_45,02164306596694.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20344543501014_44,99186339250675.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20344543501014_44,99186339250675.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20344543501014_44,99429411672681.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20344543501014_44,99429411672681.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20344964041645_45,00254595319823.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20344964041645_45,00254595319823.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20371089671222_45,03922746206356.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20371089671222_45,03922746206356.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20371089671222_45,04165818628362.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20371089671222_45,04165818628362.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20372420692843_45,0459285137146.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20372420692843_45,0459285137146.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20372420692843_45,04835923793466.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20372420692843_45,04835923793466.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20445035151005_44,99018969408145.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20445035151005_44,99018969408145.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20445035151005_44,99262041830151.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20445035151005_44,99262041830151.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,204478354893006_44,99264821700034.png",
+      "PackagePath": "staticwebassets\\images\\map_53,204478354893006_44,99264821700034.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,204478354893006_44,9950789412204.png",
+      "PackagePath": "staticwebassets\\images\\map_53,204478354893006_44,9950789412204.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20469488910305_45,161180525116066.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20469488910305_45,161180525116066.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,204835200020774_45,01921234174688.png",
+      "PackagePath": "staticwebassets\\images\\map_53,204835200020774_45,01921234174688.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,204835200020774_45,02164306596694.png",
+      "PackagePath": "staticwebassets\\images\\map_53,204835200020774_45,02164306596694.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,20523974362026_44,991674423217255.png",
+      "PackagePath": "staticwebassets\\images\\map_53,20523974362026_44,991674423217255.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,21224617216597_45,1399922369996.png",
+      "PackagePath": "staticwebassets\\images\\map_53,21224617216597_45,1399922369996.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,212731093032154_45,02607684488922.png",
+      "PackagePath": "staticwebassets\\images\\map_53,212731093032154_45,02607684488922.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,213255986089926_45,02836208696991.png",
+      "PackagePath": "staticwebassets\\images\\map_53,213255986089926_45,02836208696991.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,213649006731984_45,136285789353224.png",
+      "PackagePath": "staticwebassets\\images\\map_53,213649006731984_45,136285789353224.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,21418133917011_45,028850370465825.png",
+      "PackagePath": "staticwebassets\\images\\map_53,21418133917011_45,028850370465825.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,21435663771695_45,02633435479653.png",
+      "PackagePath": "staticwebassets\\images\\map_53,21435663771695_45,02633435479653.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,2146099422023_45,039039230784965.png",
+      "PackagePath": "staticwebassets\\images\\map_53,2146099422023_45,039039230784965.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,2146099422023_45,04146995500503.png",
+      "PackagePath": "staticwebassets\\images\\map_53,2146099422023_45,04146995500503.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,21606793789198_45,039039230784965.png",
+      "PackagePath": "staticwebassets\\images\\map_53,21606793789198_45,039039230784965.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,21606793789198_45,04146995500503.png",
+      "PackagePath": "staticwebassets\\images\\map_53,21606793789198_45,04146995500503.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_53,27413465885876_45,122823715209435.png",
+      "PackagePath": "staticwebassets\\images\\map_53,27413465885876_45,122823715209435.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_66,50635750204236_66,40417754796228.png",
+      "PackagePath": "staticwebassets\\images\\map_66,50635750204236_66,40417754796228.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_66,65893274371591_66,39678163181924.png",
+      "PackagePath": "staticwebassets\\images\\map_66,65893274371591_66,39678163181924.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_66,65935007675135_66,39663299051423.png",
+      "PackagePath": "staticwebassets\\images\\map_66,65935007675135_66,39663299051423.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_66,65935007675135_66,3990637147343.png",
+      "PackagePath": "staticwebassets\\images\\map_66,65935007675135_66,3990637147343.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_66,66031472837308_66,39663299051423.png",
+      "PackagePath": "staticwebassets\\images\\map_66,66031472837308_66,39663299051423.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_66,66031472837308_66,3990637147343.png",
+      "PackagePath": "staticwebassets\\images\\map_66,66031472837308_66,3990637147343.png"
+    },
+    {
+      "Id": "F:\\repos\\vs_repos\\Final_MVC\\wwwroot\\images\\map_66,66207427872571_66,39363174163215.png",
+      "PackagePath": "staticwebassets\\images\\map_66,66207427872571_66,39363174163215.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SPPR_PVR_CHS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SPPR_PVR_CHS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SPPR_PVR_CHS.props",
+      "PackagePath": "build\\SPPR_PVR_CHS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SPPR_PVR_CHS.props",
+      "PackagePath": "buildMultiTargeting\\SPPR_PVR_CHS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SPPR_PVR_CHS.props",
+      "PackagePath": "buildTransitive\\SPPR_PVR_CHS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SPPR_PVR_CHS.props" />
+</Project>

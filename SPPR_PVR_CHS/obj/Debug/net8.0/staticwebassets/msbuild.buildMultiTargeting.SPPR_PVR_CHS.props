@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SPPR_PVR_CHS.props" />
+</Project>
